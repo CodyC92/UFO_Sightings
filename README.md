@@ -7,11 +7,11 @@ For this project we are building an HTML page that will allow us to pull up info
 
 # HTML Page and our results
 
-<img width="1346" alt="Screen Shot 2020-10-03 at 11 08 01 AM" src="https://user-images.githubusercontent.com/67278193/94994945-de585280-0568-11eb-836d-0c2a02e839c9.png">
+<img width="1346" alt="image1" src="https://user-images.githubusercontent.com/102700668/175837653-974f2b63-90ed-45e8-a5c5-62c2129b1aa7.png">
 
 Once entering the website our client will see the basic opening and title with the picture at the top, as the client scrolls down they will begin to see all the data and filters that we have(which is in the image below). From this image below we have 5 different filters to choose from; the date, city, state, country & shape. You can choose any of these filters enter the search bar, then the HTML page will show all of the sightings for that specific search. Multiple filters can be entered at the same time to further inspect the data in the specific search bar that is entered.
 
-<img width="1254" alt="filters" src="https://user-images.githubusercontent.com/67278193/94994943-dbf5f880-0568-11eb-8740-9c614604bd8a.png">
+<img width="1254" alt="image2" src="https://user-images.githubusercontent.com/102700668/175837657-4ff54115-623c-402e-82ea-19ffaa944c60.png">
 
 # Summary
 
